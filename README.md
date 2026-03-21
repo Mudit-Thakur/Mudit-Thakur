@@ -5,7 +5,7 @@
 
 [![Email](https://img.shields.io/badge/Email-muditthakur918%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:muditthakur918@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Mudit--Thakur-181717?style=flat&logo=github&logoColor=white)](https://github.com/Mudit-Thakur)
-[![HackerRank](https://img.shields.io/badge/HackerRank-SQL%20Intermediate-2EC866?style=flat&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/www_muditthakur1)
+[![HackerRank](https://img.shields.io/badge/HackerRank-SQL%20Advanced-2EC866?style=flat&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/www_muditthakur1)
 [![Location](https://img.shields.io/badge/Location-Mumbai%2C%20India-0078D4?style=flat&logo=google-maps&logoColor=white)](https://github.com/Mudit-Thakur)
 [![Open to Work](https://img.shields.io/badge/Status-Open%20to%20Work-brightgreen?style=flat)](https://github.com/Mudit-Thakur)
 
@@ -15,9 +15,7 @@
 
 ## About
 
-Data Analyst with hands-on experience building end-to-end analytics pipelines using Python, SQL, and Power BI. I translate raw data into decisions stakeholders can act on — through dashboards, segmentation models, and automated reporting pipelines.
-
-Background in financial services with practical exposure to portfolio reporting and equity research.
+Data Analyst with a finance background spanning mutual fund advisory (Rs. 5 Cr AUM, 53 HNI clients) and equity research (20 financial models across Auto, FMCG, and Hospitality sectors). Builds end-to-end analytics pipelines using Python, SQL, and Power BI — translating complex data into decisions stakeholders act on.
 
 ---
 
@@ -41,8 +39,7 @@ Background in financial services with practical exposure to portfolio reporting 
 
 ## Certifications
 
-[![SQL Intermediate](https://img.shields.io/badge/HackerRank-SQL%20Intermediate-2EC866?style=flat&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/certificates/1d9cd3df33a3)
-[![SQL Basic](https://img.shields.io/badge/HackerRank-SQL%20Basic-2EC866?style=flat&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/certificates/c3ebaf5d2c76)
+[![SQL Advanced](https://img.shields.io/badge/HackerRank-SQL%20Advanced-2EC866?style=flat&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/certificates/7a4b7c357008)
 
 ---
 
@@ -81,8 +78,8 @@ Analyzed **250K+ listings and 5M+ reviews** across 10 global cities to surface p
 
 ## Currently
 
-- 🏆 **SQL Basic + Intermediate certified** — HackerRank verified
-- 📊 Deepening expertise in **dbt, Azure, and advanced SQL**
+- 🏆 **SQL Advanced certified** — HackerRank verified
+- 📊 Deepening expertise in **dbt, Azure, and Power BI**
 - 💼 **Open to work** — Data Analyst and Business Analyst roles
 
 ---
