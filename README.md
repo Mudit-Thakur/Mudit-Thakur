@@ -5,6 +5,7 @@
 
 [![Email](https://img.shields.io/badge/Email-muditthakur918%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:muditthakur918@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Mudit--Thakur-181717?style=flat&logo=github&logoColor=white)](https://github.com/Mudit-Thakur)
+[![HackerRank](https://img.shields.io/badge/HackerRank-SQL%20Intermediate-2EC866?style=flat&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/www_muditthakur1)
 [![Location](https://img.shields.io/badge/Location-Mumbai%2C%20India-0078D4?style=flat&logo=google-maps&logoColor=white)](https://github.com/Mudit-Thakur)
 [![Open to Work](https://img.shields.io/badge/Status-Open%20to%20Work-brightgreen?style=flat)](https://github.com/Mudit-Thakur)
 
@@ -35,6 +36,13 @@ Background in financial services with practical exposure to portfolio reporting 
 ![Microsoft SQL Server](https://img.shields.io/badge/MSSQL-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+---
+
+## Certifications
+
+[![SQL Intermediate](https://img.shields.io/badge/HackerRank-SQL%20Intermediate-2EC866?style=flat&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/certificates/1d9cd3df33a3)
+[![SQL Basic](https://img.shields.io/badge/HackerRank-SQL%20Basic-2EC866?style=flat&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/certificates/c3ebaf5d2c76)
 
 ---
 
@@ -73,8 +81,8 @@ Analyzed **250K+ listings and 5M+ reviews** across 10 global cities to surface p
 
 ## Currently
 
+- 🏆 **SQL Basic + Intermediate certified** — HackerRank verified
 - 📊 Deepening expertise in **dbt, Azure, and advanced SQL**
-- 🏆 Completing **HackerRank SQL certifications**
 - 💼 **Open to work** — Data Analyst and Business Analyst roles
 
 ---
