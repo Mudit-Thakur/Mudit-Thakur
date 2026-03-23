@@ -28,6 +28,8 @@ Data Analyst with a finance background spanning mutual fund advisory (Rs. 5 Cr A
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![Polars](https://img.shields.io/badge/Polars-CD792C?style=flat&logo=polars&logoColor=white)
 ![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=flat&logo=duckdb&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat)
+![Groq](https://img.shields.io/badge/Groq-LLaMA%203.3-F55036?style=flat)
 ![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat&logo=dbt&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
@@ -56,14 +58,14 @@ Built a delivery intelligence pipeline across **106 IT projects** to proactively
 
 ---
 
-### 🛍️ Indian Beauty Market Analytics Dashboard
-> Python (Polars) · DuckDB · Power BI · Parquet
+### 🛍️ Indian Beauty Market — End-to-End Retail Analytics Pipeline
+> Python (Polars) · DuckDB · Power BI · Parquet · LangChain · Groq LLaMA 3.3
 
-Designed a retail analytics pipeline across **50,000 transactions (₹1.62 Cr revenue)** — covering ETL with Polars, SQL analytics on Parquet via DuckDB window functions, and Power BI drill-down dashboards segmented by product, city, customer, and festival period.
+Designed a retail analytics pipeline across **50,000 transactions (₹1.62 Cr revenue)** — covering ETL with Polars, SQL analytics on Parquet via DuckDB window functions, Power BI drill-down dashboards, and a conversational AI analytics agent that answers plain English questions about the data.
 
-**Key outcomes:** Top 3 SKUs drive 46% of revenue · 302 at-risk customers flagged (30.2%) · VIP + Loyal tiers generate 94% of revenue
+**Key outcomes:** Top 3 SKUs drive 46% of revenue · 302 at-risk customers flagged (30.2%) · VIP + Loyal tiers generate 94% of revenue · AI agent enables natural language querying with conversation memory
 
-[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat&logo=github&logoColor=white)](https://github.com/Mudit-Thakur/Indian-Beauty-Market-Analytics-Dashboard)
+[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat&logo=github&logoColor=white)](https://github.com/Mudit-Thakur/Indian-Beauty-Market-End-to-End-Retail-Analytics-Pipeline)
 
 ---
 
@@ -79,7 +81,8 @@ Analyzed **250K+ listings and 5M+ reviews** across 10 global cities to surface p
 ## Currently
 
 - 🏆 **SQL Advanced certified** — HackerRank verified
-- 📊 Deepening expertise in **dbt, Azure, and Power BI**
+- 🤖 Building **AI analytics agents** — LangChain + Groq + DuckDB
+- 📊 Deepening expertise in **dbt, Azure, and advanced SQL**
 - 💼 **Open to work** — Data Analyst and Business Analyst roles
 
 ---
