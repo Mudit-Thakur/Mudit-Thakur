@@ -120,11 +120,19 @@ Retail business: 50,000 transactions (₹1.62 Cr revenue) but **no visibility** 
 | **AI & Emerging** | LangChain, Groq (LLaMA 3.3), Agentic AI Workflows |
 
 ### Certifications
-🏆 **SQL Advanced** — HackerRank (Verified, 2026)
+🏆 **SQL Advanced** — HackerRank (Verified, 2024)
 
 ---
 
+## 📈 GitHub Activity
 
+<a href="https://github.com/Mudit-Thakur">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Mudit-Thakur&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true" />
+</a>
+
+<a href="https://github.com/Mudit-Thakur">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mudit-Thakur&layout=compact&theme=dracula&hide_border=true" />
+</a>
 
 ---
 
@@ -159,11 +167,19 @@ Teams that care about **measurable business impact**, not just dashboards. If yo
 
 ---
 
-## 🏆 Badges & Certifications
+## 🏆 Badges & Certifications & Tools
 
 <div align="center">
 
-![HackerRank SQL Advanced](https://img.shields.io/badge/HackerRank-SQL%20Advanced-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black)
+![HackerRank SQL Advanced](https://img.shields.io/badge/HackerRank-SQL%20Advanced-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![Polars](https://img.shields.io/badge/Polars-CD792C?style=for-the-badge&logo=polars&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) ![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black) ![Parquet](https://img.shields.io/badge/Parquet-50B3A2?style=for-the-badge&logoColor=white)
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white) ![dbt](https://img.shields.io/badge/dbt-FF6849?style=for-the-badge&logo=dbt&logoColor=white)
+
+![AWS S3](https://img.shields.io/badge/AWS%20S3-FF9900?style=for-the-badge&logo=amazons3&logoColor=white) ![Amazon Athena](https://img.shields.io/badge/Amazon%20Athena-FF9900?style=for-the-badge&logo=amazon&logoColor=white) ![DAX](https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logoColor=black)
+
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) ![SMTP](https://img.shields.io/badge/SMTP-FFA500?style=for-the-badge&logoColor=white)
 
 </div>
 
