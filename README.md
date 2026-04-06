@@ -1,106 +1,110 @@
 <div align="center">
 
-# Mudit Thakur
-### Data Analyst — SQL • Python • Power BI
+# Mudit Thakur  
+### Data Analyst — SQL • Python • Power BI  
 
-[![Email](https://img.shields.io/badge/Email-muditthakur918%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:muditthakur918@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Mudit--Thakur-181717?style=flat&logo=github&logoColor=white)](https://github.com/Mudit-Thakur)
-[![HackerRank](https://img.shields.io/badge/HackerRank-SQL%20Advanced-2EC866?style=flat&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/www_muditthakur1)
-[![Location](https://img.shields.io/badge/Location-Mumbai%2C%20India-0078D4?style=flat&logo=google-maps&logoColor=white)](https://github.com/Mudit-Thakur)
-[![Open to Work](https://img.shields.io/badge/Status-Open%20to%20Work-brightgreen?style=flat)](https://github.com/Mudit-Thakur)
+[Email](mailto:muditthakur918@gmail.com) • 
+[LinkedIn](https://www.linkedin.com/in/mudit-thakur1/) • 
+[GitHub](https://github.com/Mudit-Thakur) • 
+[HackerRank](https://www.hackerrank.com/profile/www_muditthakur1)  
 
-</div>
-
----
-
-## About
-
-Data Analyst with a finance background spanning mutual fund advisory (Rs. 5 Cr AUM, 53 HNI clients) and equity research (20 financial models across Auto, FMCG, and Hospitality sectors). Builds end-to-end analytics pipelines using Python, SQL, and Power BI — translating complex data into decisions stakeholders act on.
-
----
-
-## Tech Stack
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
-![DAX](https://img.shields.io/badge/DAX-F2C811?style=flat&logo=powerbi&logoColor=black)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![Polars](https://img.shields.io/badge/Polars-CD792C?style=flat&logo=polars&logoColor=white)
-![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=flat&logo=duckdb&logoColor=black)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat)
-![Groq](https://img.shields.io/badge/Groq-LLaMA%203.3-F55036?style=flat)
-![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat&logo=dbt&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
-![Microsoft SQL Server](https://img.shields.io/badge/MSSQL-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-
----
-
-## Certifications
-
-[![SQL Advanced](https://img.shields.io/badge/HackerRank-SQL%20Advanced-2EC866?style=flat&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/certificates/7a4b7c357008)
-
----
-
-## Featured Projects
-
-### 🏢 DeliveryIQ — IT Consulting Predictive Analytics Pipeline
-> Python · Pandas · MSSQL · SQL CTEs · Power BI · DAX · Python-pptx
-
-Built a delivery intelligence pipeline across **106 IT projects** to proactively flag SLA breach risks across **7 sectors** — integrating MSSQL star schema, 9 CTE-based queries, and an 8-page consultant-style Power BI dashboard with DAX heatmaps and automated executive reporting.
-
-**Key outcomes:** 69 SLA breach alerts surfaced · BFSI flagged as highest-risk sector (39.6-day avg delay) · Manual reporting eliminated via Python-pptx + SMTP automation
-
-[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat&logo=github&logoColor=white)](https://github.com/Mudit-Thakur/DeliveryIQ-IT-Consulting-Predictive-Analytics-Pipeline)
-
----
-
-### 🛍️ Indian Beauty Market — End-to-End Retail Analytics Pipeline
-> Python (Polars) · DuckDB · Power BI · Parquet · LangChain · Groq LLaMA 3.3
-
-Designed a retail analytics pipeline across **50,000 transactions (₹1.62 Cr revenue)** — covering ETL with Polars, SQL analytics on Parquet via DuckDB window functions, Power BI drill-down dashboards, and a conversational AI analytics agent that answers plain English questions about the data.
-
-**Key outcomes:** Top 3 SKUs drive 46% of revenue · 302 at-risk customers flagged (30.2%) · VIP + Loyal tiers generate 94% of revenue · AI agent enables natural language querying with conversation memory
-
-[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat&logo=github&logoColor=white)](https://github.com/Mudit-Thakur/Indian-Beauty-Market-End-to-End-Retail-Analytics-Pipeline)
-
----
-
-### ✈️ Airbnb Global Performance Dashboard
-> Power BI · DAX
-
-Analyzed **250K+ listings and 5M+ reviews** across 10 global cities to surface pricing behavior, listing distribution, and demand trends — identifying 5–10% revenue uplift opportunities through pricing optimization insights.
-
-[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat&logo=github&logoColor=white)](https://github.com/Mudit-Thakur/airbnb_global_performance_dashboard)
-
----
-
-## Currently
-
-- 🏆 **SQL Advanced certified** — HackerRank verified
-- 🤖 Building **AI analytics agents** — LangChain + Groq + DuckDB
-- 📊 Deepening expertise in **dbt, Azure, and advanced SQL**
-- 💼 **Open to work** — Data Analyst and Business Analyst roles
-
----
-
-## GitHub Stats
-
-<div align="center">
-
-![Mudit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mudit-Thakur&show_icons=true&theme=default&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mudit-Thakur&layout=compact&theme=default&hide_border=true)
+Mumbai, India • Open to Work  
 
 </div>
 
 ---
 
+## About  
+
+Data Analyst with experience in **mutual fund advisory (₹5 Cr AUM, 53 HNI clients)** and **equity research (20+ financial models across Auto, FMCG, Hospitality)**.  
+
+Builds **end-to-end analytics systems** using Python, SQL, and Power BI — from raw data to stakeholder-ready insights that drive measurable business outcomes.
+
+---
+
+## Tech Stack  
+
+- **Languages:** Python, SQL  
+- **Data Processing:** Pandas, Polars, DuckDB  
+- **Visualization:** Power BI, DAX, Excel  
+- **Data Warehousing:** PostgreSQL, SQL Server, dbt  
+- **Cloud & Tools:** Azure, Git  
+- **Advanced:** LangChain, Groq (LLaMA 3.3), AI Analytics Agents  
+
+---
+
+## Certifications  
+
+- SQL Advanced — HackerRank (Verified)
+
+---
+
+## Projects  
+
+### DeliveryIQ — IT Consulting Predictive Analytics Pipeline  
+**Tech:** Python, Pandas, MSSQL, SQL CTEs, Power BI, DAX  
+
+- Built pipeline across **106 IT projects** to detect SLA breach risk  
+- Designed **star schema + 9 optimized CTE queries** for performance  
+- Delivered **8-page executive dashboard + automated reporting**  
+
+**Impact:**  
+- Flagged **69 SLA breach risks proactively**  
+- Identified **BFSI as highest-risk sector (39.6-day avg delay)**  
+- Eliminated manual reporting via Python automation  
+
+[GitHub Repo](https://github.com/Mudit-Thakur/DeliveryIQ-IT-Consulting-Predictive-Analytics-Pipeline)
+
+---
+
+### Indian Beauty Market — End-to-End Retail Analytics Pipeline  
+**Tech:** Python (Polars), DuckDB, Power BI, Parquet, LangChain  
+
+- Processed **50,000 transactions (₹1.62 Cr revenue)**  
+- Built **ETL + SQL analytics + BI dashboards + AI agent**  
+- Enabled **natural language querying on business data**  
+
+**Impact:**  
+- Top 3 SKUs → **46% revenue concentration**  
+- Flagged **302 at-risk customers (30.2%)**  
+- VIP + Loyal → **94% total revenue contribution**  
+
+[GitHub Repo](https://github.com/Mudit-Thakur/Indian-Beauty-Market-End-to-End-Retail-Analytics-Pipeline)
+
+---
+
+### Airbnb Global Performance Dashboard  
+**Tech:** Power BI, DAX  
+
+- Analyzed **250K+ listings, 5M+ reviews across 10 cities**  
+- Built dashboards for pricing, demand, and distribution insights  
+
+**Impact:**  
+- Identified **5–10% revenue uplift via pricing optimization**  
+
+[GitHub Repo](https://github.com/Mudit-Thakur/airbnb_global_performance_dashboard)
+
+---
+
+## Current Focus  
+
+- SQL Advanced (HackerRank Certified)  
+- Building AI-powered analytics agents  
+- Learning dbt, Azure, advanced SQL optimization  
+- Actively applying for Data Analyst roles  
+
+---
+
+## GitHub Stats  
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mudit-Thakur&show_icons=true&hide_border=true)  
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mudit-Thakur&layout=compact&hide_border=true)  
+
+---
+
 <div align="center">
 
-*Turning raw data into decisions that matter*
+**Turning data into measurable business impact**
 
 </div>
