@@ -120,19 +120,11 @@ Retail business: 50,000 transactions (₹1.62 Cr revenue) but **no visibility** 
 | **AI & Emerging** | LangChain, Groq (LLaMA 3.3), Agentic AI Workflows |
 
 ### Certifications
-🏆 **SQL Advanced** — HackerRank (Verified, 2024)
+🏆 **SQL Advanced** — HackerRank (Verified, 2026)
 
 ---
 
-## 📈 GitHub Activity
 
-<a href="https://github.com/Mudit-Thakur">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Mudit-Thakur&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true" />
-</a>
-
-<a href="https://github.com/Mudit-Thakur">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mudit-Thakur&layout=compact&theme=dracula&hide_border=true" />
-</a>
 
 ---
 
