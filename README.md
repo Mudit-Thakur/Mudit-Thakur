@@ -120,7 +120,7 @@ Retail business: 50,000 transactions (₹1.62 Cr revenue) but **no visibility** 
 | **AI & Emerging** | LangChain, Groq (LLaMA 3.3), Agentic AI Workflows |
 
 ### Certifications
-🏆 **SQL Advanced** — HackerRank (Verified, 2024)
+🏆 **SQL Advanced** — HackerRank (Verified, 2026)
 
 ---
 
