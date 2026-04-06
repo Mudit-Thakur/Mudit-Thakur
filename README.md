@@ -146,9 +146,27 @@ Teams that care about **measurable business impact**, not just dashboards. If yo
 
 ---
 
-## 📝 Recent Blog Posts & Insights
+## 🏆 Badges & Certifications
 
-*(Optional: Add links to Medium, Dev.to, or personal blog posts if you have them)*
+<div align="center">
+
+![HackerRank SQL Advanced](https://img.shields.io/badge/HackerRank-SQL%20Advanced-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white)
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
+![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black)
+
+</div>
 
 ---
 
