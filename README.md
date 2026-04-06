@@ -151,7 +151,7 @@ Teams that care about **measurable business impact**, not just dashboards. If yo
 
 - 📧 **Email:** [muditthakur918@gmail.com](mailto:muditthakur918@gmail.com)
 - 🔗 **LinkedIn:** [linkedin.com/in/mudit-thakur1](https://www.linkedin.com/in/mudit-thakur1/)
-- 💻 **HackerRank:** [HackerRank Profile](https://www.hackerrank.com/profile/www_muditthakur1)
+- 💻 **HackerRank:** [HackerRank Profile](https://www.hackerrank.com/profile/mudit_thakur)
 - 📍 **Location:** Mumbai, India
 
 ---
