@@ -126,9 +126,9 @@ Retail business: 50,000 transactions (₹1.62 Cr revenue) but **no visibility** 
 
 ## 📈 GitHub Activity
 
-[![Mudit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mudit-Thakur&show_icons=true&theme=dark&hide_border=true&count_private=true)](https://github.com/Mudit-Thakur)
+![Mudit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mudit-Thakur&show_icons=true&theme=dracula)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mudit-Thakur&layout=compact&theme=dark&hide_border=true)](https://github.com/Mudit-Thakur)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mudit-Thakur&layout=compact&theme=dracula)
 
 ---
 
