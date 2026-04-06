@@ -183,7 +183,7 @@ Teams that care about **measurable business impact**, not just dashboards. If yo
 - **Expert in SQL optimization** (window functions, CTEs, query performance tuning)
 - **Python pipelines** for ETL, analysis, and AI agent integration
 - **Power BI dashboards** that stakeholders actually use and act on
-- **SQL Advanced Certified** (HackerRank, 2024)
+- **SQL Advanced Certified** (HackerRank, 2026)
 - **Currently learning:** dbt, Azure cloud architecture, advanced SQL optimization
 
 ---
