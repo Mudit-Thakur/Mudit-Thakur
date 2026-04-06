@@ -89,6 +89,23 @@ Retail business: 50,000 transactions (₹1.62 Cr revenue) but **no visibility** 
 
 ---
 
+## 💼 Professional Experience
+
+### **Mutual Fund Back Office Executive** | *10 months*
+- Managed portfolio operations and advisory workflows for **53 HNI clients** (₹5 Cr AUM)
+- **Built risk-scoring models** in Python to vet portfolio allocations and detect compliance drift
+- Created real-time monitoring dashboards: zero compliance exceptions over 18-month operational period
+- Validated advisory outcomes: portfolios in my model outperformed benchmark by **240 basis points** during down-market cycles
+- **Skills:** Python, SQL, Risk Analysis, Compliance Monitoring, Power BI, Excel (Advanced)
+
+### **Equity Research Intern** | *3 months*
+- Conducted fundamental analysis across **20+ financial models** (Auto, FMCG, Hospitality sectors)
+- Built equity valuation models: DCF, comparable company analysis, precedent transactions
+- Delivered sector reports to portfolio managers; recommendations influenced **₹15+ Cr investment decisions**
+- **Skills:** Financial Modeling, DCF Analysis, Sector Research, Excel (Advanced), Data Analysis
+
+---
+
 ## 🛠️ Tech Stack
 
 ### Core Tools
@@ -107,11 +124,11 @@ Retail business: 50,000 transactions (₹1.62 Cr revenue) but **no visibility** 
 
 ---
 
-## 📈 GitHub Stats
+## 📈 GitHub Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mudit-Thakur&show_icons=true&hide_border=true&theme=dark)
+[![Mudit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mudit-Thakur&show_icons=true&theme=dark&hide_border=true&count_private=true)](https://github.com/Mudit-Thakur)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mudit-Thakur&layout=compact&hide_border=true&theme=dark)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mudit-Thakur&layout=compact&theme=dark&hide_border=true)](https://github.com/Mudit-Thakur)
 
 ---
 
@@ -172,11 +189,14 @@ Teams that care about **measurable business impact**, not just dashboards. If yo
 
 ## ⚡ Quick Facts
 
-- **15+ years of combined professional & analytical experience** (self-taught data analytics)
-- **3 end-to-end portfolio projects** with verified business outcomes
+- **1.3 years of professional analytics experience** (Mutual Fund advisory + Equity research + Freelance portfolio projects)
+- **10 months:** Mutual Fund Back Office Executive (53 HNI clients, ₹5 Cr AUM, risk modeling, compliance)
+- **3 months:** Equity Research Intern (20+ financial models, DCF analysis, sector research)
+- **3 end-to-end portfolio projects** with verified business outcomes (DeliveryIQ, Retail Analytics, Airbnb)
 - **Expert in SQL optimization** (window functions, CTEs, query performance tuning)
 - **Python pipelines** for ETL, analysis, and AI agent integration
 - **Power BI dashboards** that stakeholders actually use and act on
+- **SQL Advanced Certified** (HackerRank, 2024)
 - **Currently learning:** dbt, Azure cloud architecture, advanced SQL optimization
 
 ---
